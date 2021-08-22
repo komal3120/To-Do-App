@@ -1,5 +1,5 @@
 # To Do App
-This is a task management app to help you stay organized and manage your day-to-day. .
+This is a task management app to help you stay organized and manage your day-to-day.
 
 # Features 
 1. User can add a todo.
