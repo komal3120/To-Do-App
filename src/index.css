@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: -webkit-linear-gradient(to right, darkslategray, whitesmoke);
+    background: linear-gradient(to right, darkslategray, whitesmoke);
+    
+}
+.main{
+    width: 25%;
+    margin: auto;
+    margin-top: 10%;
+    height: 500px;
+    overflow: auto;
+    border-radius: 10%;
+    background-color: transparent;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+}
+.main{
+    padding: 60px;
+}
+.main h1{
+    text-align: center;
+    background-color: darkslategray;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main input{
+    width: 80%;
+    margin-top: 20px;
+    color: black;
+    padding: 15px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    border-bottom: 2px solid darkslategrey;
+    background-color:transparent;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    background-color: darkslategray!important;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+    margin-left: 20px!important;
+    border-radius: 50px!important;
+    color: whitesmoke!important;
+}
+.button:hover
+{
+    color: black!important;
+    box-shadow: 0 24px 38px rgba(0,0,0,0.25), 
+    0 20px 20px rgba(0,0,0,0.22);
+    width: 60px;
+    height: 60px;
+    border-radius: 60px!important;
+}
+ol{
+    list-style: none;
+    padding-top: 0px;
+}    
+ol li{
+    padding-left: 20px;
+    text-align: left;
+    padding-top: 0px;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-block;
+    list-style: none;
+    color: white;
+    width: 75%;
+}  
+.delete{
+    width: 50px!important;
+    height: 30px!important;
+    color: whitesmoke!important; 
+    float: right; 
+}
+.delete:hover{
+    color: black!important;
+    width: 60px!important;
+    height: 35px!important;
+}
+
+.list{
+    background-color: darkslategray!important;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    line-height: 50px;
+    border-radius: 20px;
+}
+.edit{
+    width: 50px!important;
+    height: 30px!important;
+    color: whitesmoke!important; 
+    margin-left: 5px;
+    
+}
+.edit:hover{
+    color: black!important;
+    width: 60px!important;
+    height: 35px!important;
+}
