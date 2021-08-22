@@ -5,12 +5,12 @@ This is to do app for adding todos.
 2. User can delete a todo.
 3. User can edit their existing todo.
 
-# Whant to Demo ?.
+# Want to Demo ?.
 Here it is https://to-do-app1.netlify.app/ 
 
 
 
-# Getting Started with Create React App
+# Getting Started with To Do App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
