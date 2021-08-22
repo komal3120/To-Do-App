@@ -1,14 +1,13 @@
 # To Do App
-This is to do app for adding todos.
+This is a task management app to help you stay organized and manage your day-to-day. .
+
 # Features 
 1. User can add a todo.
 2. User can delete a todo.
 3. User can edit their existing todo.
 
-# Want to Demo ?.
+# Want to Demo ?
 Here it is https://to-do-app1.netlify.app/ 
-
-
 
 # Getting Started with To Do App
 
